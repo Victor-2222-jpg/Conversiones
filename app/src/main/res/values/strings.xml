@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversiones</string>
+    <string-array name="unidades_array">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
+
+
